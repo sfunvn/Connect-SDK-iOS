@@ -9,3 +9,4 @@
 [submodule "modules/firetv"]
 	path = modules/firetv
 	url = https://github.com/Volley-Inc/Connect-SDK-iOS-FireTV
+	branch = master
