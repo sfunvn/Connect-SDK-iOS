@@ -4,9 +4,9 @@
 	branch = dev
 [submodule "core"]
 	path = core
-	url = https://github.com/Volley-Inc/Connect-SDK-iOS-Core
+	url = https://github.com/sfunvn/Connect-SDK-iOS-Core
 	branch = master
 [submodule "modules/firetv"]
 	path = modules/firetv
-	url = https://github.com/Volley-Inc/Connect-SDK-iOS-FireTV
+	url = https://github.com/sfunvn/Connect-SDK-iOS-FireTV
 	branch = master
