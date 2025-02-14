@@ -33,7 +33,6 @@
 
 // Temporary disable some services
 #define kConnectSDKDefaultPlatforms (@{ \
-    @"AirPlayService"     : @"ZeroConfDiscoveryProvider", \
     @"NetcastTVService"   : @"SSDPDiscoveryProvider", \
     @"RokuService"        : @"SSDPDiscoveryProvider", \
     @"WebOSTVService"     : @"SSDPDiscoveryProvider", \
